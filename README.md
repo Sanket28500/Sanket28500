@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I love learning **New Technologies**<br>🌱 I’m currently learning **Core Java**<br>📫 How to reach me https://www.linkedin.com/in/sanket-joshi-01aaa9220/
+🔭 I love learning **New Technologies**<br>🌱 I’m currently learning **Asp.Net**<br>📫 How to reach me https://www.linkedin.com/in/sanket-joshi-01aaa9220/
 
 
 ## 🌐 Socials:
